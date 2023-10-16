@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+#countLabel {
+  display: block;
+  text-align: center;
+  font-size: 50px;
+  color: hsl(210, 76%, 25%);
+}
+
+#butBlock {
+ text-align: center;
+}
+
+button {
+  background-color: beige;
+}
